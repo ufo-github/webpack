@@ -10,3 +10,38 @@ A bundler for javascript and friends.
 Packs many modules into a few bundled assets.   
 Code Splitting allows to load parts for the application on demand.   
 Through "loaders," modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
+
+
+## build tool 构建工具  
+https://www.techopedia.com/definition/16359/build-tool  
+
+
+
+# webpack 1.x  
+
+https://webpack.github.io/docs/  
+https://webpack.github.io/docs/what-is-webpack.html  
+
+webpack takes modules with dependencies and generates static assets representing those modules.  
+
+webpack 接受具有依赖性的模块，并生成表示这些模块的静态资产。  
+
+# webpack 2.x 
+
+https://webpack.js.org/  
+https://webpack.js.org/concepts/  
+
+
+webpack is a module bundler for modern JavaScript applications.  
+
+webpack是现代JavaScript应用程序的模块捆绑器。  
+
+
+
+
+
+
+
+
+
+
